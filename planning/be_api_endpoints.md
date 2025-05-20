@@ -16,7 +16,6 @@ GET /api/articles/:article_id/comments (pagination)
 GET /api/articles (sorting queries)
 GET /api/articles (topic query)
 GET /api/articles (pagination)
-
 POST /api/articles
 POST /api/articles/:article_id/comments
 PATCH /api/articles/:article_id
